@@ -1,0 +1,17 @@
+{
+    "name": "carlos/scheduler",
+    "autoload": {
+        "psr-4": {
+            "Carlos\\Scheduler\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "carlos",
+            "email": "jaime_andrek@hotmail.com"
+        }
+    ],
+    "require": {
+        "coffeecode/router": "^2.0"
+    }
+}
