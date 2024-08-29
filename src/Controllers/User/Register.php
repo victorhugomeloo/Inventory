@@ -1,8 +1,8 @@
 <?php
 
-namespace Main\Src\Controllers\User;
+namespace Victor\Inventory\Controllers\User;
 
-use main\src\Helpers\Template\Loader;
+use Victor\Inventory\Helpers\Template\Loader;
 
 class Register
 {

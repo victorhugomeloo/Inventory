@@ -1,14 +1,14 @@
 {
-    "name": "carlos/scheduler",
+    "name": "victor/inventory",
     "autoload": {
         "psr-4": {
-            "Carlos\\Scheduler\\": "src/"
+            "Victor\\Inventory\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "carlos",
-            "email": "jaime_andrek@hotmail.com"
+            "name": "Victor",
+            "email": "victorhugomeloo@live.com"
         }
     ],
     "require": {
