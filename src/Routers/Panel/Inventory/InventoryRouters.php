@@ -1,8 +1,8 @@
 <?php
 
-namespace Victor\Inventory\Routers\Panel\Invetory;
+namespace Victor\Inventory\Routers\Panel\Scheduler;
 
-use Victor\Inventory\Router;
+use CoffeeCode\Router\Router;
 
 class InventoryRouters
 {
@@ -15,7 +15,7 @@ class InventoryRouters
 
     public function execute()
     {
-        $this->router->namespace('Victor\Inventory\Controllers\Panel\Inventory');
+        $this->router->namespace('Victor\Inventory\Controllers\Panel\Scheduler');
 
         $this->router->get("/panel/inventory/", 'Inventory:execute');
 

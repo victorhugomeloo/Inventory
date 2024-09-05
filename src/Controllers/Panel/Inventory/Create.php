@@ -1,5 +1,5 @@
 <?php
-namespace Victor\Inventory\Controllers\Panel\Scheduler;
+namespace Victor\Inventory\Controllers\Panel\Inventory;
 
 use Victor\Inventory\Helpers\Template\Loader;
 
