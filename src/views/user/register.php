@@ -21,19 +21,19 @@
             </div>
             <div class="mb-3">
                 <label for="name" class="form-label">Nome</label>
-                <input name="name" type="text" class="form-control" id="name">
+                <input name="name" required type="text" class="form-control" id="name">
             </div>
             <div class="mb-3">
                 <label for="phone" class="form-label">Telefone</label>
-                <input name="phone" type="text" class="form-control" id="phone">
+                <input name="phone" required type="text" class="form-control" id="phone">
             </div>
             <div class="mb-3">
                 <label for="email" class="form-label">Email address</label>
-                <input name="email" type="email" class="form-control" id="email">
+                <input name="email" required type="email" class="form-control" id="email">
             </div>
             <div class="mb-3">
                 <label for="password" class="form-label">Password</label>
-                <input name="password" type="password" class="form-control" id="password" >
+                <input name="password" required type="password" class="form-control" id="password" >
             </div>
             <button type="submit" class="btn btn-primary">Cadastrar</button>
             <div class="container-action">
