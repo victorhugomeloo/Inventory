@@ -6,7 +6,7 @@ use Victor\Inventory\Routers\Loader;
 // use Victor\Inventory\Models\Users\Users;
 
 // $user = new Users();
-
+// teste
 // $data = [
 //     'name' => "",
 //     'email' => "victor@example.com",
