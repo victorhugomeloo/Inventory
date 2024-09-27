@@ -1,5 +1,5 @@
 <?php
-namespace Carlos\Scheduler\Controllers\User\Services\Register;
+namespace Victor\Inventory\Controllers\User\Services\Register;
 
 class Validate
 {

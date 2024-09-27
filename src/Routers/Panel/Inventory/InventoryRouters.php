@@ -1,6 +1,6 @@
 <?php
 
-namespace Victor\Inventory\Routers\Panel\Scheduler;
+namespace Victor\Inventory\Routers\Panel\Inventory;
 
 use CoffeeCode\Router\Router;
 

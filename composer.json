@@ -7,11 +7,9 @@
     },
     "authors": [
         {
-            "name": "Victor",
+            "name": "victor",
             "email": "victorhugomeloo@live.com"
         }
     ],
-    "require": {
-        "coffeecode/router": "^2.0"
-    }
+    "require": {}
 }
